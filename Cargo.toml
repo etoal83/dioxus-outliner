@@ -1,0 +1,7 @@
+[package]
+name = "dioxus-outliner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dioxus = { version = "*", features = ["desktop"]}
